@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Constant</title>
+    <link>http://localhost:53851/categories/</link>
+    <description>Recent content in Categories on Constant</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2026 A&#39;nyo Bell</copyright>
+    <atom:link href="http://localhost:53851/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

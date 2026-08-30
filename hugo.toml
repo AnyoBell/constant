@@ -1,0 +1,46 @@
+baseURL = 'https://anyobell.io/'
+languageCode = 'en-us'
+title = "Constant"
+theme = 'archie'
+copyright = "© 2026 A'nyo Bell"
+
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  mode = "dark"
+  customcss = ["css/custom.css"]
+
+[[params.social]]
+  name = "YouTube"
+  icon = "simple:youtube"
+  url = "https://www.youtube.com/@TheRealConstant"
+
+[[params.social]]
+  name = "GitHub"
+  icon = "simple:github"
+  url = "https://github.com/anyobell"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Posts"
+  url = "/posts"
+  weight = 2
+
+[[menu.main]]
+  name = "About"
+  url = "/about"
+  weight = 3
+
+[[menu.main]]
+  name = "Tags"
+  url = "/tags"
+  weight = 4
