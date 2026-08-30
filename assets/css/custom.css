@@ -140,3 +140,8 @@ a:hover {
   color: #000 !important;
   background-color: #ff2020 !important;
 }
+
+/* Move socials - hide from footer */
+footer .social-icons {
+  display: none !important;
+}
