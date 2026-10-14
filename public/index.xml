@@ -2,18 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Constant</title>
-    <link>http://localhost:58981/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Constant</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© 2026 A&#39;nyo Bell</copyright>
-    <atom:link href="http://localhost:58981/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Oct 2026 22:57:37 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>God Syntax</title>
+      <link>http://localhost:1313/posts/god-syntax/</link>
+      <pubDate>Wed, 07 Oct 2026 22:57:37 -0700</pubDate>
+      <guid>http://localhost:1313/posts/god-syntax/</guid>
+      <description>&lt;h2 id=&#34;the-hook&#34;&gt;The Hook&lt;/h2&gt;&#xA;&lt;h2 id=&#34;the-language&#34;&gt;The Language&lt;/h2&gt;&#xA;&lt;h2 id=&#34;the-code-underneath&#34;&gt;The Code Underneath&lt;/h2&gt;&#xA;&lt;h2 id=&#34;what-it-means&#34;&gt;What It Means&lt;/h2&gt;&#xA;&lt;h2 id=&#34;closing-thought&#34;&gt;Closing Thought&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Algorithmic Slavery</title>
+      <link>http://localhost:1313/posts/algorithmic-slavery/</link>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/algorithmic-slavery/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Insider Threats</title>
+      <link>http://localhost:1313/posts/insider-threats/</link>
+      <pubDate>Sat, 29 Aug 2026 23:53:18 -0700</pubDate>
+      <guid>http://localhost:1313/posts/insider-threats/</guid>
+      <description>&lt;p&gt;Hacking isn&amp;rsquo;t limited to computer systems, or even technology. Any system of rules can be hacked. This applies to anything from sports, markets, political systems, and even humans have vulnerabilites the can be expolited.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>About</title>
-      <link>http://localhost:58981/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58981/about/</guid>
-      <description>&lt;p&gt;This is my (A&amp;rsquo;nyo Bell) website. I write about my interests:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;hardware security&lt;/li&gt;&#xA;&lt;li&gt;martial arts&lt;/li&gt;&#xA;&lt;li&gt;music&lt;/li&gt;&#xA;&lt;li&gt;philosophy&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/@TheRealConstant&#34;&gt;YouTube&lt;/a&gt; · &lt;a href=&#34;https://github.com/anyobell&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;This is my (A&amp;rsquo;nyo Bell) website. I write about my interests:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;cybersecurity&lt;/li&gt;&#xA;&lt;li&gt;martial arts&lt;/li&gt;&#xA;&lt;li&gt;music&lt;/li&gt;&#xA;&lt;li&gt;film&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/@TheRealConstant&#34;&gt;YouTube&lt;/a&gt; · &lt;a href=&#34;https://github.com/anyobell&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

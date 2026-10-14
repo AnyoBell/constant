@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Constant</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blogs on Constant</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2026 A&#39;nyo Bell</copyright>
+    <lastBuildDate>Wed, 07 Oct 2026 22:57:37 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>God Syntax</title>
+      <link>http://localhost:1313/blog/god-syntax/</link>
+      <pubDate>Wed, 07 Oct 2026 22:57:37 -0700</pubDate>
+      <guid>http://localhost:1313/blog/god-syntax/</guid>
+      <description>&lt;h2 id=&#34;the-hook&#34;&gt;The Hook&lt;/h2&gt;&#xA;&lt;h2 id=&#34;the-language&#34;&gt;The Language&lt;/h2&gt;&#xA;&lt;h2 id=&#34;the-code-underneath&#34;&gt;The Code Underneath&lt;/h2&gt;&#xA;&lt;h2 id=&#34;what-it-means&#34;&gt;What It Means&lt;/h2&gt;&#xA;&lt;h2 id=&#34;closing-thought&#34;&gt;Closing Thought&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>
