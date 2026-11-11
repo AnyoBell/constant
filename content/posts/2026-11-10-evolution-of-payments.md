@@ -8,6 +8,8 @@ Humans have always relied on some system of commerce throughout the ages. People
 needed to trade and conduct commerce, so they used other forms of payment to complete 
 transactions. With the evolution of technology, money and payments have entered new frontiers.
 
+<!--more-->
+
 ## Bartering
 A barter system is one of the earliest systems used for commerce. During this time, 
 people exchanged services and goods for other services and goods in return. There is 
