@@ -1,0 +1,22 @@
+.post-tags ul.tags,
+.post-tags ul.tags li {
+  list-style: none !important;
+  padding: 0 !important;
+  margin: 0 1rem 0 0 !important;
+  display: inline !important;
+}
+.post-tags ul.tags li::marker { content: "" !important; }
+.post-tags ul.tags li::before,
+.post-tags ul.tags li a::before { content: none !important; display: none !important; }
+.post-tags ul.tags li a,
+.post-tags ul.tags li a:hover,
+.post-tags ul.tags li a:focus {
+  border: none !important;
+  outline: none !important;
+  box-shadow: none !important;
+  background: none !important;
+  color: inherit !important;
+  padding: 0 !important;
+  text-decoration: none !important;
+}
+.post-tags ul.tags li a:hover { text-decoration: underline !important; }
