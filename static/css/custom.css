@@ -20,3 +20,8 @@
   text-decoration: none !important;
 }
 .post-tags ul.tags li a:hover { text-decoration: underline !important; }
+.post-tags ul.tags::before {
+  content: "tags:";
+  color: #e8432e;
+  margin-right: 1rem;
+}
