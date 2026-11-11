@@ -1,5 +1,5 @@
 ---
-title: "The Programmed World: Algorithmic Slavery"
+title: "The Programmed World"
 date: 2026-10-07T22:57:37-0700
 draft: true
 ---
