@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of Payments"
-date: 2026-03-17
-tags: ["blockchain", "technology", "systems"]
+date: 2026-11-10
+tags: ["blockchain", "decentralization", "crypto", "money", "systems"]
 draft: false
 ---
 Humans have always relied on some system of commerce throughout the ages. People still 
